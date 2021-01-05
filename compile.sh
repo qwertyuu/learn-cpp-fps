@@ -1,0 +1,1 @@
+g++ -std=c++17 -g -o bin/confps Source.cpp -lncurses
